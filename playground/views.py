@@ -7,12 +7,12 @@ def calculate():
     y = 2
     return x
 
+
 # Create your views here.
 # request -> response
 # request handler
 
 def say_hello(request):
-
     # return HttpResponse('Hello World')
 
     # Using a template
